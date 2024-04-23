@@ -1,0 +1,144 @@
+@font-face {
+  font-family: "Turnkey Soft";
+  src: url(../fonts/TurnkeySoft-MediumItalic.d27938b1.eot);
+  src: local("Turnkey Soft Medium Italic"), local("TurnkeySoft-MediumItalic"), url(../fonts/TurnkeySoft-MediumItalic.d27938b1.eot#iefix) format("embedded-opentype"), url(../fonts/TurnkeySoft-MediumItalic.b25f7123.woff2) format("woff2"), url(../fonts/TurnkeySoft-MediumItalic.1c78649a.woff) format("woff"), url(../fonts/TurnkeySoft-MediumItalic.040e382a.ttf) format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Turnkey Soft";
+  src: url(../fonts/TurnkeySoft-SemiBoldItalic.bc2df5a9.eot);
+  src: local("Turnkey Soft Semi Bold Italic"), local("TurnkeySoft-SemiBoldItalic"), url(../fonts/TurnkeySoft-SemiBoldItalic.bc2df5a9.eot#iefix) format("embedded-opentype"), url(../fonts/TurnkeySoft-SemiBoldItalic.f84c1b69.woff2) format("woff2"), url(../fonts/TurnkeySoft-SemiBoldItalic.d9cd2e49.woff) format("woff"), url(../fonts/TurnkeySoft-SemiBoldItalic.91e9c6f4.ttf) format("truetype");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Turnkey Soft";
+  src: url(../fonts/TurnkeySoft-Heavy.c49a50b5.eot);
+  src: local("Turnkey Soft Heavy"), local("TurnkeySoft-Heavy"), url(../fonts/TurnkeySoft-Heavy.c49a50b5.eot#iefix) format("embedded-opentype"), url(../fonts/TurnkeySoft-Heavy.f8a02a2f.woff2) format("woff2"), url(../fonts/TurnkeySoft-Heavy.a68350d3.woff) format("woff"), url(../fonts/TurnkeySoft-Heavy.26cff49f.ttf) format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Turnkey Soft";
+  src: url(../fonts/TurnkeySoft-BoldItalic.e80f4561.eot);
+  src: local("Turnkey Soft Bold Italic"), local("TurnkeySoft-BoldItalic"), url(../fonts/TurnkeySoft-BoldItalic.e80f4561.eot#iefix) format("embedded-opentype"), url(../fonts/TurnkeySoft-BoldItalic.2a2a63ae.woff2) format("woff2"), url(../fonts/TurnkeySoft-BoldItalic.5bfb4cd5.woff) format("woff"), url(../fonts/TurnkeySoft-BoldItalic.62f1be7b.ttf) format("truetype");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Turnkey Soft";
+  src: url(../fonts/TurnkeySoft-Bold.facd4e5b.eot);
+  src: local("Turnkey Soft Bold"), local("TurnkeySoft-Bold"), url(../fonts/TurnkeySoft-Bold.facd4e5b.eot#iefix) format("embedded-opentype"), url(../fonts/TurnkeySoft-Bold.1b1d2cb1.woff2) format("woff2"), url(../fonts/TurnkeySoft-Bold.f6ca9067.woff) format("woff"), url(../fonts/TurnkeySoft-Bold.905c6f2f.ttf) format("truetype");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Turnkey Soft";
+  src: url(../fonts/TurnkeySoft-Medium.9b8e19b7.eot);
+  src: local("Turnkey Soft Medium"), local("TurnkeySoft-Medium"), url(../fonts/TurnkeySoft-Medium.9b8e19b7.eot#iefix) format("embedded-opentype"), url(../fonts/TurnkeySoft-Medium.5cd1fe42.woff2) format("woff2"), url(../fonts/TurnkeySoft-Medium.a69f84cf.woff) format("woff"), url(../fonts/TurnkeySoft-Medium.73c2fc75.ttf) format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Turnkey Soft";
+  src: url(../fonts/TurnkeySoft-ThinItalic.15ba8570.eot);
+  src: local("Turnkey Soft Thin Italic"), local("TurnkeySoft-ThinItalic"), url(../fonts/TurnkeySoft-ThinItalic.15ba8570.eot#iefix) format("embedded-opentype"), url(../fonts/TurnkeySoft-ThinItalic.cf2640ca.woff2) format("woff2"), url(../fonts/TurnkeySoft-ThinItalic.b901c0d3.woff) format("woff"), url(../fonts/TurnkeySoft-ThinItalic.c1cd21c6.ttf) format("truetype");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Turnkey Soft";
+  src: url(../fonts/TurnkeySoft-ExtraBold.c289210c.eot);
+  src: local("Turnkey Soft Extra Bold"), local("TurnkeySoft-ExtraBold"), url(../fonts/TurnkeySoft-ExtraBold.c289210c.eot#iefix) format("embedded-opentype"), url(../fonts/TurnkeySoft-ExtraBold.5e551cf1.woff2) format("woff2"), url(../fonts/TurnkeySoft-ExtraBold.349fab84.woff) format("woff"), url(../fonts/TurnkeySoft-ExtraBold.e63be366.ttf) format("truetype");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Turnkey Soft";
+  src: url(../fonts/TurnkeySoft-HeavyItalic.f41aa41f.eot);
+  src: local("Turnkey Soft Heavy Italic"), local("TurnkeySoft-HeavyItalic"), url(../fonts/TurnkeySoft-HeavyItalic.f41aa41f.eot#iefix) format("embedded-opentype"), url(../fonts/TurnkeySoft-HeavyItalic.1ca78812.woff2) format("woff2"), url(../fonts/TurnkeySoft-HeavyItalic.85aa4cd5.woff) format("woff"), url(../fonts/TurnkeySoft-HeavyItalic.fd35d8ed.ttf) format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Turnkey Soft";
+  src: url(../fonts/TurnkeySoft-LightItalic.4cd3cf35.eot);
+  src: local("Turnkey Soft Light Italic"), local("TurnkeySoft-LightItalic"), url(../fonts/TurnkeySoft-LightItalic.4cd3cf35.eot#iefix) format("embedded-opentype"), url(../fonts/TurnkeySoft-LightItalic.eedb9af2.woff2) format("woff2"), url(../fonts/TurnkeySoft-LightItalic.0f8cb3e3.woff) format("woff"), url(../fonts/TurnkeySoft-LightItalic.1bb55c92.ttf) format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Turnkey Soft";
+  src: url(../fonts/TurnkeySoft-RegularItalic.97f7ea0a.eot);
+  src: local("Turnkey Soft Regular Italic"), local("TurnkeySoft-RegularItalic"), url(../fonts/TurnkeySoft-RegularItalic.97f7ea0a.eot#iefix) format("embedded-opentype"), url(../fonts/TurnkeySoft-RegularItalic.6d3a11d6.woff2) format("woff2"), url(../fonts/TurnkeySoft-RegularItalic.963723d0.woff) format("woff"), url(../fonts/TurnkeySoft-RegularItalic.2266526a.ttf) format("truetype");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Turnkey Soft";
+  src: url(../fonts/TurnkeySoft-Thin.8c29a7cb.eot);
+  src: local("Turnkey Soft Thin"), local("TurnkeySoft-Thin"), url(../fonts/TurnkeySoft-Thin.8c29a7cb.eot#iefix) format("embedded-opentype"), url(../fonts/TurnkeySoft-Thin.91e0d379.woff2) format("woff2"), url(../fonts/TurnkeySoft-Thin.f7da5e34.woff) format("woff"), url(../fonts/TurnkeySoft-Thin.376aa212.ttf) format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Turnkey Soft";
+  src: url(../fonts/TurnkeySoft-ExtraLight.ca171b4a.eot);
+  src: local("Turnkey Soft Extra Light"), local("TurnkeySoft-ExtraLight"), url(../fonts/TurnkeySoft-ExtraLight.ca171b4a.eot#iefix) format("embedded-opentype"), url(../fonts/TurnkeySoft-ExtraLight.a9a33b71.woff2) format("woff2"), url(../fonts/TurnkeySoft-ExtraLight.c916a600.woff) format("woff"), url(../fonts/TurnkeySoft-ExtraLight.29f8585d.ttf) format("truetype");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Turnkey Soft";
+  src: url(../fonts/TurnkeySoft-ExtraBoldItalic.675d23ad.eot);
+  src: local("Turnkey Soft Extra Bold Italic"), local("TurnkeySoft-ExtraBoldItalic"), url(../fonts/TurnkeySoft-ExtraBoldItalic.675d23ad.eot#iefix) format("embedded-opentype"), url(../fonts/TurnkeySoft-ExtraBoldItalic.39ed2d1d.woff2) format("woff2"), url(../fonts/TurnkeySoft-ExtraBoldItalic.8a8991c7.woff) format("woff"), url(../fonts/TurnkeySoft-ExtraBoldItalic.2e142545.ttf) format("truetype");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Turnkey Soft";
+  src: url(../fonts/TurnkeySoft-Regular.3c543249.eot);
+  src: local("Turnkey Soft Regular"), local("TurnkeySoft-Regular"), url(../fonts/TurnkeySoft-Regular.3c543249.eot#iefix) format("embedded-opentype"), url(../fonts/TurnkeySoft-Regular.dc9da387.woff2) format("woff2"), url(../fonts/TurnkeySoft-Regular.c04c8003.woff) format("woff"), url(../fonts/TurnkeySoft-Regular.3cced49b.ttf) format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Turnkey Soft";
+  src: url(../fonts/TurnkeySoft-Light.b6801713.eot);
+  src: local("Turnkey Soft Light"), local("TurnkeySoft-Light"), url(../fonts/TurnkeySoft-Light.b6801713.eot#iefix) format("embedded-opentype"), url(../fonts/TurnkeySoft-Light.21a6cdd7.woff2) format("woff2"), url(../fonts/TurnkeySoft-Light.66601acd.woff) format("woff"), url(../fonts/TurnkeySoft-Light.849235a7.ttf) format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Turnkey Soft";
+  src: url(../fonts/TurnkeySoft-SemiBold.78b6e96c.eot);
+  src: local("Turnkey Soft Semi Bold"), local("TurnkeySoft-SemiBold"), url(../fonts/TurnkeySoft-SemiBold.78b6e96c.eot#iefix) format("embedded-opentype"), url(../fonts/TurnkeySoft-SemiBold.e44662cf.woff2) format("woff2"), url(../fonts/TurnkeySoft-SemiBold.12d4e6f9.woff) format("woff"), url(../fonts/TurnkeySoft-SemiBold.6cb23262.ttf) format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Turnkey Soft";
+  src: url(../fonts/TurnkeySoft-ExtraLightIt.15fa16dd.eot);
+  src: local("Turnkey Soft Extra Light Italic"), local("TurnkeySoft-ExtraLightIt"), url(../fonts/TurnkeySoft-ExtraLightIt.15fa16dd.eot#iefix) format("embedded-opentype"), url(../fonts/TurnkeySoft-ExtraLightIt.2a8dd401.woff2) format("woff2"), url(../fonts/TurnkeySoft-ExtraLightIt.02e0b0e5.woff) format("woff"), url(../fonts/TurnkeySoft-ExtraLightIt.c5970286.ttf) format("truetype");
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
